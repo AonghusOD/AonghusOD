@@ -1,4 +1,10 @@
-### Hi there 👋
+- 👋 Hello, I'm Aonghus, a highly motivated Java Developer driven by getting results solving complex problems.
+- 💻 I specialize in working on a wide range of skills that include working on databases, servers, AWS, App development, networking, Linux, embedded systems and have written programs in languages such as python, C, C++, JavaScript and java
+- 🔭 I am highly motivated, thrive in fast-paced environments, and have a strong self-motivated work ethic. I am constantly seeking to learn new skills.
+
+- 🌱 My longer-term goals are to learn a variety of skills within the field of computer science and would love to become an expert in Full-Stack Development
+
+- 📫 You can reach me via email to aonghusodon@gmail.com
 
 <!--
 **AonghusOD/AonghusOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
