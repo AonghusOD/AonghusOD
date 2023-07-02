@@ -4,7 +4,7 @@
 
 - 🌱 My longer-term goals are to learn a variety of skills within the field of computer science and would love to become an expert in Full-Stack Development
 
-- 📫 You can reach me via email to aonghusodon@gmail.com
+- 📫 You can reach me via email to aonghusod@hotmail.com
 
 <!--
 **AonghusOD/AonghusOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
