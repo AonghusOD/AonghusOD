@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Aonghus, a highly motivated Java Developer driven by getting results solving complex problems.
+- 👋 Hello, I'm Aonghus, a highly motivated Software Developer driven by getting results solving complex problems.
 - 💻 I specialize in working on a wide range of skills that include working on databases, servers, AWS, App development, networking, Linux, embedded systems and have written programs in languages such as python, C, C++, JavaScript and java
 - 🔭 I am highly motivated, thrive in fast-paced environments, and have a strong self-motivated work ethic. I am constantly seeking to learn new skills.
 
